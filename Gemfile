@@ -11,6 +11,10 @@ gem 'bootstrap-sass', github: 'thomas-mcdonald/bootstrap-sass', branch: '3'
 gem 'devise', '~> 3.1.1'
 gem 'simple_form'
 
+group :test do 
+  gem 'shoulda'
+end
+
 group :development, :test do 
   gem 'sqlite3'
 end
