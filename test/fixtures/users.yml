@@ -9,3 +9,10 @@ yoyo:
   last_name: "yoyo"
   email: "scott@welcomeh.me"
   profile_name: "yoyo"
+
+
+mike:
+  first_name: "Mike"
+  last_name: "The Frog"
+  email: "mike@welcomeh.me"
+  profile_name: "mikethefrog"
